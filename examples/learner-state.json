@@ -1,0 +1,16 @@
+{
+  "practice_target": "Working toward A1",
+  "participation_xp": 0,
+  "credited_attempt_ids": [],
+  "current_goal": {"label": "Complete a shop exchange", "components": ["Ask the price", "Ask whether Pix is accepted", "Politely ask for a shopping bag"], "status": "not yet checked", "next_test": "Produce all three parts in a new shop situation without a displayed model answer; later repeat in a changed situation on another day."},
+  "course_areas": [
+    {"name": "Greetings, personal information and repair phrases", "status": "not yet checked"},
+    {"name": "Questions, requests, affirmative and negative replies", "status": "not yet checked"},
+    {"name": "Numbers, prices, dates and times", "status": "not yet checked"},
+    {"name": "Shops, cafés and groceries", "status": "not yet checked"},
+    {"name": "Home and deliveries", "status": "not yet checked"},
+    {"name": "Appointments, transport, help and directions", "status": "not yet checked"}
+  ],
+  "modality_evidence": {"writing": [], "speaking": [], "listening": []},
+  "review_items": []
+}
